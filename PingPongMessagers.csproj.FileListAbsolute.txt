@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\PingPongMessagers\PingPongMessagers\obj\Debug\netcoreapp3.1\PingPongMessagers.csprojAssemblyReference.cache
+C:\Users\user\source\repos\PingPongMessagers\PingPongMessagers\obj\Debug\netcoreapp3.1\PingPongMessagers.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PingPongMessagers\PingPongMessagers\obj\Debug\netcoreapp3.1\PingPongMessagers.AssemblyInfo.cs
+C:\Users\user\source\repos\PingPongMessagers\PingPongMessagers\obj\Debug\netcoreapp3.1\PingPongMessagers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PingPongMessagers\PingPongMessagers\bin\Debug\netcoreapp3.1\PingPongMessagers.exe
+C:\Users\user\source\repos\PingPongMessagers\PingPongMessagers\bin\Debug\netcoreapp3.1\PingPongMessagers.deps.json
+C:\Users\user\source\repos\PingPongMessagers\PingPongMessagers\bin\Debug\netcoreapp3.1\PingPongMessagers.runtimeconfig.json
+C:\Users\user\source\repos\PingPongMessagers\PingPongMessagers\bin\Debug\netcoreapp3.1\PingPongMessagers.runtimeconfig.dev.json
+C:\Users\user\source\repos\PingPongMessagers\PingPongMessagers\bin\Debug\netcoreapp3.1\PingPongMessagers.dll
+C:\Users\user\source\repos\PingPongMessagers\PingPongMessagers\bin\Debug\netcoreapp3.1\PingPongMessagers.pdb
+C:\Users\user\source\repos\PingPongMessagers\PingPongMessagers\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\user\source\repos\PingPongMessagers\PingPongMessagers\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\user\source\repos\PingPongMessagers\PingPongMessagers\obj\Debug\netcoreapp3.1\PingPongMessagers.csproj.CopyComplete
+C:\Users\user\source\repos\PingPongMessagers\PingPongMessagers\obj\Debug\netcoreapp3.1\PingPongMessagers.dll
+C:\Users\user\source\repos\PingPongMessagers\PingPongMessagers\obj\Debug\netcoreapp3.1\PingPongMessagers.pdb
+C:\Users\user\source\repos\PingPongMessagers\PingPongMessagers\obj\Debug\netcoreapp3.1\PingPongMessagers.genruntimeconfig.cache
